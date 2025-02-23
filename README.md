@@ -5,7 +5,7 @@
 I am an aspiring student currently pursuing a **Bachelor in Computer Science and Engineering** at **Notre Dame University Bangladesh**. Passionate about coding and technology, I am always eager to learn and explore new advancements in the tech world. 
 
 ## My Interests
-- 🚀 **Programming & Competitive Programming**
+- 🚀 **Competitive Programming**
 - 💻 **Software Engineering**
 - 🌱 **Learning New Technologies**
 - 🎭 **Cultural and Social Gatherings**
@@ -24,7 +24,6 @@ I am highly motivated to expand my knowledge and skills, and **GitHub Education*
 - 👯 I’m looking to collaborate on **open-source projects and competitive programming challenges**
 - 🤔 I’m looking for help with **learning best practices in software engineering**
 - 💬 Ask me about **Python, JavaScript, C++, and competitive programming**
-- 📫 How to reach me: **[Your Contact Info or Socials]**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love solving coding puzzles and participating in hackathons!**
 
